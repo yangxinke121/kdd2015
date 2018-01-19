@@ -1,6 +1,6 @@
 # kddcup2015
 
-参考了 
+参考了   https://github.com/its-fun/kddcup2015
 
 ## project structure
 
